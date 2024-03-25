@@ -12,3 +12,5 @@
 
 **Run All Code Chunks in _`final-project-23211267.qmd`_ from RStudio project**
 
+See skin cancer dataset analysis in full HTML report format at: [Full Report](https://conorheffron.github.io/cbio-skin-canc/final-project-23211267-CH.html)
+
