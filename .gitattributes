@@ -1,1 +1,2 @@
-*.ipynb linguist-language=Python
+*.R linguist-language=R
+*.qmd linguist-language=R
