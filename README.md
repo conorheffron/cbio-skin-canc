@@ -9,8 +9,7 @@
 - This data represents the targeted sequencing (MSK-IMPACT) of 696 melanoma tumour / normal pairs.
 - There is a corresponding published medical journal entitled “Therapeutic Implications of Detecting MAPK-Activating Alterations in Cutaneous and Unknown Primary Melanomas”.
 
+**Run All Code Chunks in _`final-project-report.qmd`_ from RStudio project & render to HTML or PDF**
 
-#### **Run All Code Chunks in _`final-project-report.qmd`_ from RStudio project**
-
-### See skin cancer dataset analysis in full HTML report format at: [Full Report](https://conorheffron.github.io/cbio-skin-canc/final-project-report.html)
+- See skin cancer dataset analysis in full HTML report format at: [Full Report](https://conorheffron.github.io/cbio-skin-canc/final-project-report.html)
 
