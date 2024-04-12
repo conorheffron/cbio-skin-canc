@@ -1,6 +1,6 @@
 # cbio-skin-canc
 
-# Summary
+### Summary
 
 - The dataset I have selected for this assignment is from the CBio Portal for Cancer Genomics website.
 - The full data set is in tar / gzip format that can be downloaded directly from https://www.cbioportal.org/study/summary?id=mel_mskimpact_2020.
@@ -10,7 +10,7 @@
 - There is a corresponding published medical journal entitled “Therapeutic Implications of Detecting MAPK-Activating Alterations in Cutaneous and Unknown Primary Melanomas”.
 
 
-**Run All Code Chunks in _`final-project-23211267.qmd`_ from RStudio project**
+#### **Run All Code Chunks in _`final-project-report.qmd`_ from RStudio project**
 
-See skin cancer dataset analysis in full HTML report format at: [Full Report](https://conorheffron.github.io/cbio-skin-canc/final-project-23211267-CH.html)
+### See skin cancer dataset analysis in full HTML report format at: [Full Report](https://conorheffron.github.io/cbio-skin-canc/final-project-report.html)
 
