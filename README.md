@@ -1,3 +1,5 @@
+![Proof HTML](https://github.com/conorheffron/cbio-skin-canc/actions/workflows/proof-html.yml/badge.svg)
+
 # cbio-skin-canc
 
 ### Summary
