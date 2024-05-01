@@ -1,6 +1,6 @@
 ---
-title: "Data Programming with R: Final Project"
-author: "Conor Heffron (23211267)"
+title: "Skin Cancer Dataset Analysis"
+author: "Conor Heffron"
 format: 
   html:
    embed-resources: true
