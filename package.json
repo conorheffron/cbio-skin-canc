@@ -1,8 +1,5 @@
 {
   "name": "cbio-skin-canc",
-  "version": "2.1.0",
-  "description": "Analysis of Skin Cancer Data",
-  "dependencies": {
-    "@primer/css": "17.0.1"
-  }
+  "version": "2.1.1",
+  "description": "Analysis of Skin Cancer Data"
 }
