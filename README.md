@@ -1,6 +1,8 @@
-![Proof HTML](https://github.com/conorheffron/cbio-skin-canc/actions/workflows/proof-html.yml/badge.svg)
-
 # cbio-skin-canc
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+![Proof HTML](https://github.com/conorheffron/cbio-skin-canc/actions/workflows/proof-html.yml/badge.svg)
 
 ### Summary
 
@@ -13,5 +15,4 @@
 
 **Run All Code Chunks in _`final-project-report.qmd`_ from RStudio project & render to HTML or PDF**
 
-- See skin cancer dataset analysis in full HTML report format at: [Full Report](https://conorheffron.github.io/cbio-skin-canc/final-project-report.html)
-
+- See skin cancer dataset analysis in **Full HTML report** format at: [Full Report](https://conorheffron.github.io/cbio-skin-canc/final-project-report.html)
